@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Alex_Chasi_Person_Test_Api.props" />
+</Project>

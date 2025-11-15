@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\repositories\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\repositories\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\controllers\\externaluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\controllers\\externaluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\services\\interfaces\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\services\\interfaces\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|c:\\users\\alex\\source\\repos\\alex_chasi_person_test_api\\alex_chasi_person_test_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFA7FE2-7B4A-4A4F-9C37-2ADDB67C8004}|Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api.csproj|solutionrelative:alex_chasi_person_test_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251115050517_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Migrations\\20251115050517_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T05:05:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Models\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Models\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Models\\Entities\\Person.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Models\\Entities\\Person.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:40:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExternalUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\ExternalUsersController.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Controllers\\ExternalUsersController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\ExternalUsersController.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Controllers\\ExternalUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:39:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Program.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T01:53:23.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Repositories\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:31:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\appsettings.json",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T02:43:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\DTOs\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\DTOs\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\DTOs\\PersonDto.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\DTOs\\PersonDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:14:52.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:39:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:34:51.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:33:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\ExternalUserService.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Services\\ExternalUserService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\ExternalUserService.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Services\\ExternalUserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:37:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\PersonService.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Services\\PersonService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:36:43.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IExternalUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IExternalUserService.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IExternalUserService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IExternalUserService.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IExternalUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:35:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Services\\Interfaces\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:35:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:34:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Alex_Chasi_Person_Test_Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Alex_Chasi_Person_Test_Api\\Alex_Chasi_Person_Test_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Alex_Chasi_Person_Test_Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:16:53.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
